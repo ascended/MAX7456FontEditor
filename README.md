@@ -3,6 +3,8 @@ A simple, easy to use font editor for the MAX7456.
 
 With this, you can easily edit the font file directly, export the characters or import individual or a set of characters. This allows you to easily edit and clean up fonts in an application such as photoshop.
 
+<img src="master/glypheditor.jpg" />
+
 ## File Formats
 The editor allows easy opening and saving of the ATMega/Arduino "MAX7456 font uploader" style programs which are readily available. The header files can be easily loaded and saved without requiring any conversion utility, or the files from the Maxim editor (.mcm) can be loaded and saved. This allows you to also easily convert between the two formats.
 
